@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2yg262949fqgmy9w?svg=true)](https://ci.appveyor.com/project/dieweltverbrennt/ajs-regex)
